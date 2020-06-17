@@ -1,0 +1,6 @@
+name: StoragePlus
+main: com.dusterthefirst.storageplus.Plugin
+version: 1.0
+api-version: 1.13
+descripton: PEE
+commands:
